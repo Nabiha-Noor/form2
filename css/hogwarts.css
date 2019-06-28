@@ -1,0 +1,25 @@
+*{
+	margin:0px;
+}
+body{
+	background:url(../img/sparkles.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	font-family: 'Frijole', cursive;
+}
+.GOT{
+	margin-left:5%;
+	margin-top: 10%;
+	color:white;
+	font-size: 150%;
+	
+}
+.ht{
+	color:white;
+    font-family: 'Frijole', cursive;
+    font-family: 'Open Sans', sans-serif;
+    margin-left:80%;
+    font-size: 120%;
+
+
+}

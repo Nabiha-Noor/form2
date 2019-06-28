@@ -1,0 +1,49 @@
+*{
+	margin:0px;
+}
+body{
+	background:url(../img/art.jpg);
+	font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Nanum Myeongjo', serif;
+}
+.two h3{
+	color:white;
+	text-align: center;
+	font-size: 30px;
+	margin:10px 0px;
+}
+.one{
+	width: 450px;
+	margin: 0 auto;
+}
+.two{
+    background-color: unset;
+    width: 150px;
+    margin:10%;
+    margin-right:10%;
+    margin-left: 40%;
+    padding: 5%;
+    display:block;
+}
+.form-control{
+width:120%;
+padding:10px 14px;
+margin-bottom: 10px;
+}
+.btn{
+padding:10px 20px;
+display:block;
+text-transform: uppercase;
+}
+.hpt{
+	font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Ruge Boogie', cursive;
+color:white;
+margin-left: 10%;
+font-size: 115%;
+}
